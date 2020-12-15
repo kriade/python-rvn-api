@@ -1,0 +1,12 @@
+# MacOs file
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Hide files/directories
+test/

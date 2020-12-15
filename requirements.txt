@@ -1,0 +1,2 @@
+argcomplete==1.10.0
+PyMuPDF==1.18.1
